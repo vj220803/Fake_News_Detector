@@ -4,6 +4,7 @@ This project is a complete **AI-powered Fake News Detection System** that detect
 
 ---
 ![Fake_News](https://github.com/vj220803/Fake_News_Detector/blob/main/WhatsApp%20Image%202025-12-06%20at%2022.05.38%20(1).jpeg)
+![Real News](https://github.com/vj220803/Fake_News_Detector/blob/main/WhatsApp%20Image%202025-12-06%20at%2022.05.38.jpeg)
 
 ## 📌 Features
 
