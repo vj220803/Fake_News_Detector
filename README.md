@@ -3,6 +3,7 @@
 This project is a complete **AI-powered Fake News Detection System** that detects fake news from multiple sources such as **text, images, audio files, and YouTube videos**. It uses advanced **Natural Language Processing (NLP)** models, **Machine Learning**, **Optical Character Recognition (OCR)**, and **Speech-to-Text Transcription** for multimodal analysis.
 
 ---
+![Fake_News](https://github.com/vj220803/Fake_News_Detector/blob/main/WhatsApp%20Image%202025-12-06%20at%2022.05.38%20(1).jpeg)
 
 ## 📌 Features
 
